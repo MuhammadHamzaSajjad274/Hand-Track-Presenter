@@ -9,11 +9,11 @@
 
 ---
 
-## What Is AirWrite & Gesture Slide?
+## What Is HandTrack Presenter?
 
-A real-time computer vision system that turns your webcam and bare hand into a touchless input device. Point your index finger to draw in mid-air on a live camera feed, or wave to navigate presentation slides — no mouse, stylus, or touchscreen required.
+A real time computer vision system that transforms your webcam and bare hands into a touchless input interface. By simply pointing your index finger, you can draw in mid-air on a live camera feed, or use simple hand gestures to navigate presentation slides eliminating the need for a mouse, stylus, or touchscreen.
 
-Built with **MediaPipe Hands** for 21-point landmark detection and **OpenCV** for rendering, it runs entirely on a standard webcam at real-time frame rates.
+The system is built using MediaPipe Hands for 21-point hand landmark detection and OpenCV for real time rendering. It operates entirely on a standard webcam and delivers smooth performance at real-time frame rates.
 
 ---
 
